@@ -132,12 +132,3 @@ NGS-Genius/
 GSEA/ORA with gseapy · FastQC/MultiQC report ingestion · Ensembl→symbol mapping · batch correction
 (ComBat-seq) · Dockerfile with R + Bioconductor · Nextflow (nf-core/rnaseq) upstream integration.
 
-## Résumé description
-
-> **NGS-Genius – GenAI-Enabled RNA-seq Analysis and Intelligent Troubleshooting Platform**
-> *Personal Project | Python, R, DESeq2, Linux, Streamlit, Gemini API*
-> * Developed an RNA-seq analysis platform integrating DESeq2 differential expression with interactive visualisation.
-> * Implemented QC, PCA, volcano-plot and heatmap workflows for gene expression data.
-> * Integrated the Gemini API to explain QC reports, pipeline errors and differential-expression results.
-> * Built a Streamlit dashboard to explore results and export analysis summaries.
-> * Added PubMed literature retrieval (RAG) with citation guarding for evidence-based gene-function interpretation.
